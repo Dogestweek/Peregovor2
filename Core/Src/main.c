@@ -168,7 +168,7 @@ int main(void)
     /* USER CODE BEGIN 3 */
 
 
-	 // HAL_GPIO_WritePin(LED_1_GPIO_Port, LED_1_Pin, 1);
+	 // HAL_GPIO_WritePin(LED_1_GPIO_Port, LED_1_Pin, 0);
 
 
 	 // sprintf ((char *)TxData_VODIL, "12345 %d", indx++);
