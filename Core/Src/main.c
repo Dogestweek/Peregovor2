@@ -177,7 +177,7 @@ int main(void)
 
 
 
-	  HAL_Delay (700);
+	  HAL_Delay (600);
 
 	  HAL_GPIO_TogglePin(LED_1_GPIO_Port, LED_1_Pin);
 
